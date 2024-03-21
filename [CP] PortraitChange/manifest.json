@@ -1,0 +1,11 @@
+{
+    "Name": "PortraitChange",
+    "Author": "therealMVP",
+    "Version": "1.0.0",
+    "Description": "trying to change a portrait",
+    "UniqueID": "therealMVP.PortraitChange",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }

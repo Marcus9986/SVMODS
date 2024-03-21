@@ -1,0 +1,14 @@
+{
+    "Format": "1.19.0",
+    "Changes": [
+
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/arrow2644.png",
+            "FromArea": {"X": 0, "Y": 0, "Width": 10, "Height": 10 }, 
+            "ToArea": { "X": 0, "Y": 0, "Width": 10, "Height": 10 },
+            "Patchmode": "Replace"
+         }
+    ]
+ }
