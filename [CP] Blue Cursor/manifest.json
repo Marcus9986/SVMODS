@@ -1,9 +1,9 @@
 {
-    "Name": "PortraitChange",
+    "Name": "Blue Cursor",
     "Author": "therealMVP",
     "Version": "1.0.0",
-    "Description": "trying to change a portrait",
-    "UniqueID": "therealMVP.PortraitChange",
+    "Description": "Replacing default cursor with basic blue cursor",
+    "UniqueID": "therealMVP.Blue Cursor",
     "UpdateKeys": [],
     "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
